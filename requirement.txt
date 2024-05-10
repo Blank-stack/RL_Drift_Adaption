@@ -1,0 +1,12 @@
+numpy=1.22.4
+pandas=1.2.4
+matplotlib=3.5.2
+scipy=1.4.1
+scikit-learn=1.2.2
+tensorflow=2.2.0
+gym=0.18.0
+ujson=1.35
+termcolor=1.1.0
+tqdm=4.31.1
+python=3.8.8
+keras-r12=1.0.5
